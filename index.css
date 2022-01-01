@@ -1,0 +1,131 @@
+body{
+    background-image: url("sky.jpg");
+    background-size: cover;
+}
+.test1{
+    background-color: rgb(0, 0, 0);
+    background-size: cover;
+}
+.test2{
+    color: rgb(255, 255, 255);
+    text-align: left;
+}
+.test3{
+    margin: 10;
+}
+.test4{
+    margin-left: 15;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.test5{
+    margin-left: 15;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.test6{
+    margin-left: 15;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.test7{
+    margin-left: 15;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.test8{
+    margin-left: 15;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.test9{
+    margin-left: 15;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.test10{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin-left: 700;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+}
+.test11{
+    margin-left: 5;
+}
+.test12{
+    color:rgb(255, 255, 255);
+    margin: 80;
+}
+.test13{
+    color: rgb(255, 255, 255);
+    height: 200px;
+}
+.test14{
+    height: 100;
+    width: 400;
+    margin-left: 70;
+}
+.test15{
+    background-image: url("zahra.jpg");
+    background-size: cover;
+    height: 400;
+   margin-left: 1100;
+   font:600;
+}
+.test17{
+    visibility: hidden;
+}
+.test18{
+    margin-left: 140;
+}
+.test19{
+    margin-left: 140;
+    margin-top: 20;
+}
+.test20{
+    font-size: medium;
+    text-decoration: none;
+    margin: 140
+}
+.test21{
+    font-family: cursive;
+    font-size: medium;
+    color: rgb(173, 18, 52);
+    text-decoration: none;
+    margin-left: 80;
+}
+a:hover{
+    color: rgb(201, 73, 73);
+    font-size: small;
+}
+.test22{
+    font-family: cursive;
+    font-size: medium;
+    color: rgb(37, 126, 185);
+    text-decoration: none;
+    margin-left: 10;
+}
+.test23{
+    font-family: cursive;
+    font-size: medium;
+    color: rgb(185, 37, 37);
+    text-decoration: none;
+    margin-left: 10;
+}
+.test24{
+    font-family: cursive;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    text-decoration: none;
+    margin-left: 10;
+}
+.test25{
+    background-color: rgb(54, 51, 218);
+  color: rgb(255, 255, 255);
+  border-style: ridge;
+}
+.test27{
+    margin-left: 100;
+    background-image: url("google.jpg");
+   background-size: 60;
+}
